@@ -68,3 +68,6 @@ docs/
 
 # misc
 .DS_Store
+
+# TS output
+dist/
